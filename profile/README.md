@@ -8,7 +8,7 @@ Auf GitHub findest du unser Schaufenster mit fertigen Skills und der Doku für E
 - **[Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen)**: Fehler melden, Ideen und Quellen einbringen, die Anleitungen verbessern
 - **[Programm holen](https://kiplatz.at/rechenkraft-teilen/)**: fragen und den eigenen PC für die Community arbeiten lassen
 
-Ein Konto gilt für alles und ist kostenlos. Programmieren musst du nicht können, ein Skill ist in 10 Minuten geschrieben. Wer mitbaut, steht mit Namen auf [Wer mitbaut](https://kiplatz.at/wer-mitbaut/).
+Ein Konto gilt für alles und ist kostenlos. Programmieren musst du nicht können, ein Skill ist in 10 Minuten geschrieben. Wer mitbaut, steht auf Wunsch mit Namen auf [Wer mitbaut](https://kiplatz.at/wer-mitbaut/).
 
 [kiplatz.at](https://kiplatz.at/) · [Wiki](https://kiplatz.at/wiki/) · [Mithelfen](https://kiplatz.at/mitarbeit-gesucht/)
 
