@@ -1,17 +1,17 @@
-## Willkommen bei KIplatz
+## Welcome to KIplatz
 
-**Eine KI, die ihrer Community gehört.** Die Antworten erarbeiten die PCs der Mitglieder, nicht ein Rechenzentrum. Aus Österreich, für den ganzen DACH-Raum.
+**A free AI from Austria that belongs to its community.** The answers are worked out by the members' own PCs, not by a data centre. Under every answer you see where it comes from. KI is German for AI.
 
-Auf GitHub findest du unser Schaufenster mit fertigen Skills und der Doku für Entwickler. Gebaut wird bei uns:
+Here on GitHub you find our shop window, with ready-made skills, the docs for developers and the release notes of every version. Building happens on our own sites:
 
-- **[Platzl](https://forum.kiplatz.at/)**: mitreden, Fragen stellen, Skills schreiben und gemeinsam verbessern
-- **[Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen)**: Fehler melden, Ideen und Quellen einbringen, die Anleitungen verbessern
-- **[Programm holen](https://kiplatz.at/rechenkraft-teilen/)**: fragen und den eigenen PC für die Community arbeiten lassen
+- **[Forum (Platzl)](https://forum.kiplatz.at/?tl=en)**: talk, ask questions, write skills and improve them together
+- **[Workshop](https://werkstatt.kiplatz.at/KIplatz/mitbauen?lang=en-US)**: report mistakes, bring in ideas and sources, improve the guides
+- **[Get the program](https://kiplatz.com/share-computing/)**: ask questions and let your own PC work for the community
 
-Ein Konto gilt für alles und ist kostenlos. Programmieren musst du nicht können, ein Skill ist in 10 Minuten geschrieben. Wer mitbaut, steht auf Wunsch mit Namen auf [Wer mitbaut](https://kiplatz.at/wer-mitbaut/).
+One account works for everything and is free. You don't need to know how to program, a skill is written in 10 minutes. Anyone who builds along can be listed by name on [Who builds](https://kiplatz.com/who-builds/).
 
-[kiplatz.at](https://kiplatz.at/) · [Wiki](https://kiplatz.at/wiki/) · [Mithelfen](https://kiplatz.at/mitarbeit-gesucht/)
+[kiplatz.com](https://kiplatz.com/) · [Wiki](https://kiplatz.com/wiki/) · [Help wanted](https://kiplatz.com/help-wanted/)
 
 ---
 
-*An AI owned by its community, from Austria. Answers come from the members' own computers, not from a data centre. Join us in the [Platzl](https://forum.kiplatz.at/) and the [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen).*
+*Eine KI aus Österreich, die ihrer Community gehört. Auf Deutsch: [kiplatz.at](https://kiplatz.at/), mitreden im [Platzl](https://forum.kiplatz.at/), mitbauen in der [Werkstatt](https://werkstatt.kiplatz.at/KIplatz/mitbauen).*
